@@ -1,0 +1,30 @@
+Reference, Quantity, Value,Description,Manufacturer,MPN,Supplier
+BT1 ,1,CR2032 CLIP,nRF52832_DEMO_V01:BC-2003-G-TR,MPD,BC-2003-G-TR,DigiKey
+C11 ,1,"4u7, 25V",Capacitor_SMD:C_0603_1608Metric,Murata Electronics,GRM188R61E475KE11D,DigiKey
+C3 ,1,"0p8, 100V",Capacitor_SMD:C_0402_1005Metric,Murata Electronics,GRM1555C2AR80BA01D,DigiKey
+C4 ,1,"100p, 25V",Capacitor_SMD:C_0402_1005Metric,Murata Electronics,GRM1555C1E101JA01D,DigiKey
+C6 C5 C14 C15 ,4,"12p, 25V",Capacitor_SMD:C_0402_1005Metric,Murata Electronics,GRM1555C1E120JA01D,DigiKey
+C7 ,1,NC,Capacitor_SMD:C_0402_1005Metric,X,X,DigiKey
+C8 C12 C13 C10 C16 ,5,"100n, 25V",Capacitor_SMD:C_0402_1005Metric,Murata Electronics,GRM155R71E104KE14J,DigiKey
+C9 C2 C1 ,3,"1u, 25V",Capacitor_SMD:C_0603_1608Metric,Murata Electronics,GCM188R71E105KA64D,DigiKey
+D1 ,1,NSR0620P2T5G,nRF52832_DEMO_V01:NSR0620P2T5G,ON Semiconductor,NSR0620P2T5G,DigiKey
+D3 D2 ,2,GRN,LED_SMD:LED_0603_1608Metric,OSRAM Opto Semiconductors Inc.,LG L29K-F2J1-24-Z,DigiKey
+J1 ,1,M20-8890245,nRF52832_DEMO_V01:M20-8890245,Harwin Inc.,M20-8890245,DigiKey
+J2 ,1,MM8130-2600RB8,nRF52832_DEMO_V01:MM8130-2600RB8,Murata Electronics,MM8130-2600RB8,DigiKey
+J3 ,1,3221-10-0300-00,nRF52832_DEMO_V01:3221-10-0300-00,CNC Tech,3221-10-0300-00-TR,DigiKey
+J5 J4 ,2,Conn_01x10_Male,Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical,X,X,DigiKey
+L1 ,1,3n9,Inductor_SMD:L_0402_1005Metric,Murata Electronics,LQP15MN3N9B02D,DigiKey
+L2 ,1,15n,Inductor_SMD:L_0402_1005Metric,Taiyo Yuden,HK100515NJ-T,DigiKey
+L3 ,1,10u,Inductor_SMD:L_0603_1608Metric,Taiyo Yuden,LBMF1608T100K,DigiKey
+R1 R2 ,2,10KR,Resistor_SMD:R_0402_1005Metric,Vishay Beyschlag,MCS04020C1002FE000,DigiKey
+R4 R3 ,2,560R,Resistor_SMD:R_0402_1005Metric,Panasonic Electronic Components,ERJ-2RKF5600X,DigiKey
+R5 ,1,NC,Resistor_SMD:R_0402_1005Metric,X,X,DigiKey
+R6 ,1,100KR,Resistor_SMD:R_0402_1005Metric,Vishay Beyschlag,MCS04020C1003FE000,DigiKey
+SW2 ,1,CUS-12TB,nRF52832_DEMO_V01:CUS-12TB,Nidec Copal Electronics,CUS-12TB,DigiKey
+SW4 SW3 SW1 SW5 SW6,5,SW_Push,nRF52832_DEMO_V01:Pushbutton_Generic,E-Switch,TL1015AF160QG,DigiKey
+U1 ,1,AP7333-33SRG-7,Package_TO_SOT_SMD:SOT-23,Diodes Incorporated,AP7333-33SAG-7,DigiKey
+U2 ,1,TPS2105DBVR,Package_TO_SOT_SMD:SOT-23-5,Texas Instruments,TPS2105DBVR,DigiKey
+U3 ,1,nRF52832-QFxx,Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.6x4.6mm_ThermalVias,Nordic Semiconductor,NRF52832-QFAA-R,DigiKey
+U4 ,1,NX3DV2567,Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm,NXP USA Inc.,"NX3DV2567HR,115",DigiKey
+Y1 ,1,Q22FA12800025,Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm,EPSON,FA-128 32.0000MF10Z-AJ3,DigiKey
+Y2 ,1,FC-135R 32.7680KA-AC3,Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm,EPSON,FC-135R 32.7680KA-AC3,DigiKey
